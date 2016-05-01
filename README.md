@@ -1,29 +1,46 @@
 # Awesome Style Guide
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of awesome **style guide**. The list is divided into categories such as Programming Language.
+A list of awesome **style guide**. The list is divided into categories such as Programming Languages, Frameworks.
 
 ## Contents
+- [AngularJS](#angularjs)
 - [C](#c)
 - [Cpp](#cpp)
 - [CSharp](#csharp)
 - [CommonLisp](#commonlisp)
 - [CSS](#css)
+- [Django](#django)
+- [Flask](#flask)
+- [Git](#git)
 - [Go](#go)
+- [HTTP API Design](#httpapidesign)
 - [HTML](#html)
+- [JSON](#json)
 - [Java](#java)
 - [Javascript](#javascript)
+- [jQuery](#jquery)
+- [Kotlin](#kotlin)
 - [Objective-C](#objective-c)
 - [Perl](#perl)
 - [PHP](#php)
 - [Python](#python)
 - [R](#r)
+- [React](#react)
 - [Ruby](#ruby)
+- [Ruby on Rails](#rubyonrails)
 - [Rust](#rust)
+- [Sass](#sass)
 - [Shell](#shell)
 - [Swift](#swift)
 - [SQL](#sql)
+- [Unreal Engine](#unrealengine)
 - [Vimscript](#vimscript)
+- [XML](#xml)
+
+## AngularJS
+* [johnpapa's angular-styleguide](https://github.com/johnpapa/angular-styleguide)
+* [Google Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
 
 ## C
 * [Apache httpd](https://httpd.apache.org/dev/styleguide.html)
@@ -34,11 +51,13 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Geosoft Style Guide](http://geosoft.no/development/cppstyle.html)
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+* [cocos2d-x](http://www.cocos2d-x.org/wiki/Cocos2d-x_Coding_Style_C++)
 
 ## CSharp
 * [Microsoft](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
 * [raywenderlich.com](https://github.com/raywenderlich/c-sharp-style-guide)
 * [dvdsgl's CSharp Style Guide](https://github.com/dvdsgl/csharp-in-style)
+* [Unity](http://wiki.unity3d.com/index.php/Csharp_Coding_Guidelines)
 
 ## CommonLisp
 * [Google Style Guide](https://google.github.io/styleguide/lispguide.xml)
@@ -54,16 +73,34 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [ThinkUp](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS)
 * [smacss](https://smacss.com/)
 
+## Django
+* [Django Coding Style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+
+## Flask
+* [Pocoo Styleguide](http://flask.pocoo.org/docs/0.10/styleguide/)
+
+## Git
+* [agis-](https://github.com/agis-/git-style-guide)
+* [git flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.html)
+* [A successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
 ## Go
 * [EffectiveGo](https://golang.org/doc/effective_go.html)
 * [How to Write GO Code](https://golang.org/doc/code.html)
 * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+
+## HTTP API Design
+* [http-api-design](https://github.com/interagent/http-api-design)
+* [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ## HTML
 * [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 * [W3Schools](http://www.w3schools.com/html/html5_syntax.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/html/)
 * [mdo’s Code Guide](https://github.com/mdo/code-guide)
+
+## JSON
+* [Google Style Guide](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
 
 ## Java
 * [Apache ACE](https://ace.apache.org/docs/coding-standards.html)
@@ -82,6 +119,12 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [note-style-guide](https://github.com/felixge/node-style-guide)
 * [npm’s "funny" coding style](https://docs.npmjs.com/misc/coding-style)
 * [WordPress](https://make.wordpress.org/core/handbook/coding-standards/javascript/)
+
+## jQuery
+* [pragmatic-jquery](https://github.com/yuanyan/pragmatic-jquery)
+
+## Kotlin
+* [Kotlin](https://kotlinlang.org/docs/reference/coding-conventions.html)
 
 ## Objective-C
 * [NYTimes(The New York Times)](https://github.com/NYTimes/objective-c-style-guide)
@@ -109,6 +152,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Google Style Guide](https://google.github.io/styleguide/Rguide.xml)
 * [Hadley Wickham’s R Style Guide](http://adv-r.had.co.nz/Style.html)
 
+## React
+* [Airbnb](https://github.com/airbnb/javascript/tree/master/react)
+
 ## Ruby
 * [bbatsov’s Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Airbnb](https://github.com/airbnb/ruby)
@@ -116,9 +162,15 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Relish](https://www.relishapp.com/womply/ruby-style-guide/docs/syntax)
 * [Cookpad](https://github.com/cookpad/styleguide/blob/master/ruby.en.md)
 
+## Ruby on Rails
+* [bbatsov's rails-style-guide](https://github.com/bbatsov/rails-style-guide)
+
 ## Rust
 * [aturon’s Rust Style Guide](https://aturon.github.io/)
 * [rust-lang Official Style Guide](https://github.com/rust-lang/rust/tree/master/src/doc/style)
+
+## Sass
+* [css-trick](https://css-tricks.com/sass-style-guide/)
 
 ## Shell
 * [Google Style Guide](https://google.github.io/styleguide/shell.xml)
@@ -134,8 +186,14 @@ A list of awesome **style guide**. The list is divided into categories such as P
 ## SQL
 * [sqlstyle.guide](http://www.sqlstyle.guide/)
 
+## Unreal Engine
+* [Unreal Engine](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/)
+
 ## Vimscript
 * [Google Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
+
+## XML
+* [Google Style Guide](https://google.github.io/styleguide/xmlstyle.html)
 
 ## License
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
