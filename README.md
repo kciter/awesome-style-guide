@@ -1,9 +1,12 @@
 # Awesome Style Guide
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of awesome **style guide**. The list is divided into categories such as Programming Languages, Frameworks.
+A list of awesome **style guide**. The list is divided into categories such as Programming Languages, Architecture, Platforms, Frameworks.
+
+**Tip**: You can find simply press <kbd>Command</kbd> + <kbd>F</kbd> or <kbd>Ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 
 ## Contents
+- [Android](#android)
 - [AngularJS](#angularjs)
 - [C](#c)
 - [Cpp](#cpp)
@@ -14,8 +17,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [Flask](#flask)
 - [Git](#git)
 - [Go](#go)
-- [HTTP API Design](#httpapidesign)
+- [HTTP API Design](#http-api-design)
 - [HTML](#html)
+- [iOS](#ios)
 - [JSON](#json)
 - [Java](#java)
 - [Javascript](#javascript)
@@ -27,17 +31,24 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [Python](#python)
 - [R](#r)
 - [React](#react)
+- [Redux](#redux)
 - [Ruby](#ruby)
-- [Ruby on Rails](#rubyonrails)
+- [Ruby on Rails](#ruby-on-rails)
 - [Rust](#rust)
 - [Sass](#sass)
 - [Scala](#scala)
 - [Shell](#shell)
+- [SpringFramework](#springframework)
 - [Swift](#swift)
 - [SQL](#sql)
 - [Unreal Engine](#unrealengine)
 - [Vimscript](#vimscript)
 - [XML](#xml)
+
+## Android
+* [android-guidelines](https://github.com/ribot/android-guidelines)
+* [android-code-style](https://source.android.com/source/code-style.html)
+* [archi](https://github.com/ivacf/archi)
 
 ## AngularJS
 * [johnpapa's angular-styleguide](https://github.com/johnpapa/angular-styleguide)
@@ -79,6 +90,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Flask
 * [Pocoo Styleguide](http://flask.pocoo.org/docs/0.10/styleguide/)
+* [Large app how to](https://github.com/pallets/flask/wiki/Large-app-how-to)
 
 ## Git
 * [agis-](https://github.com/agis-/git-style-guide)
@@ -99,6 +111,10 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [W3Schools](http://www.w3schools.com/html/html5_syntax.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/html/)
 * [mdo’s Code Guide](https://github.com/mdo/code-guide)
+
+## iOS
+* [iOS MVVM](https://www.objc.io/issues/13-architecture/mvvm/)
+* [iOS VIPER](https://www.objc.io/issues/13-architecture/viper/)
 
 ## JSON
 * [Google Style Guide](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
@@ -156,6 +172,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 ## React
 * [Airbnb](https://github.com/airbnb/javascript/tree/master/react)
 
+## Redux
+* [ghengeveld's Style Guide](https://github.com/ghengeveld/react-redux-styleguide)
+
 ## Ruby
 * [bbatsov’s Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Airbnb](https://github.com/airbnb/ruby)
@@ -179,6 +198,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 ## Shell
 * [Google Style Guide](https://google.github.io/styleguide/shell.xml)
 * [Chromium](http://www.chromium.org/chromium-os/shell-style-guidelines)
+
+## SpringFramework
+* [spring-framework](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Code-Style)
 
 ## Swift
 * [Github](https://github.com/github/swift-style-guide)
