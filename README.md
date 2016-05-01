@@ -25,26 +25,26 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [SQL](#sql)
 - [Vimscript](#vimscript)
 
-### C
+## C
 * [Apache httpd](https://httpd.apache.org/dev/styleguide.html)
 * [GNU](http://www.gnu.org/prep/standards/standards.html)
 * [NASA](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
 
-### Cpp
+## Cpp
 * [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Geosoft Style Guide](http://geosoft.no/development/cppstyle.html)
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
 
-### CSharp
+## CSharp
 * [Microsoft](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
 * [raywenderlich.com](https://github.com/raywenderlich/c-sharp-style-guide)
 * [dvdsgl's CSharp Style Guide](https://github.com/dvdsgl/csharp-in-style)
 
-### CommonLisp
+## CommonLisp
 * [Google Style Guide](https://google.github.io/styleguide/lispguide.xml)
 * [Riastradh’s Lisp Style Guide](http://mumble.net/~campbell/scheme/style.txt)
 
-### CSS
+## CSS
 * [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 * [mod’s Code Guide](https://github.com/mdo/code-guide)
 * [Airbnb](https://github.com/airbnb/css)
@@ -54,24 +54,24 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [ThinkUp](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS)
 * [smacss](https://smacss.com/)
 
-### Go
+## Go
 * [EffectiveGo](https://golang.org/doc/effective_go.html)
 * [How to Write GO Code](https://golang.org/doc/code.html)
 * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 
-### HTML
+## HTML
 * [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 * [W3Schools](http://www.w3schools.com/html/html5_syntax.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/html/)
 * [mdo’s Code Guide](https://github.com/mdo/code-guide)
 
-### Java
+## Java
 * [Apache ACE](https://ace.apache.org/docs/coding-standards.html)
 * [Oracle](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 * [Geosoft](http://geosoft.no/development/javastyle.html)
 * [Google Style Guide](https://google.github.io/styleguide/javaguide.html)
 
-### Javascript
+## Javascript
 * [Airbnb](https://github.com/airbnb/javascript)
 * [Google Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [W3Schools](http://www.w3schools.com/js/js_conventions.asp)
@@ -83,58 +83,58 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [npm’s "funny" coding style](https://docs.npmjs.com/misc/coding-style)
 * [WordPress](https://make.wordpress.org/core/handbook/coding-standards/javascript/)
 
-### Objective-C
+## Objective-C
 * [NYTimes(The New York Times)](https://github.com/NYTimes/objective-c-style-guide)
 * [raywenderlich.com](https://github.com/raywenderlich/objective-c-style-guide)
 * [Github](https://github.com/github/objective-c-style-guide)
 * [Google Style Guide](https://google.github.io/styleguide/objcguide.xml)
 * [Apple](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)
 
-### Perl
+## Perl
 * [perldoc](http://perldoc.perl.org/perlstyle.html)
 * [Apache VCL](https://cwiki.apache.org/confluence/display/VCL/Perl+Code+Style+Guidelines)
 
-### PHP
+## PHP
 * [php-fig](http://www.php-fig.org/psr/psr-2/)
 * [CodeIgniter](https://www.codeigniter.com/user_guide/general/styleguide.html)
 * [WordPress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/)
 * [ZendFramework](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
 * [PHP The Right Way](http://www.phptherightway.com/)
 
-### Python
+## Python
 * [PEP8](https://www.python.org/dev/peps/pep-0008/)
 * [Google Style Guide](https://google.github.io/styleguide/pyguide.html)
 
-### R
+## R
 * [Google Style Guide](https://google.github.io/styleguide/Rguide.xml)
 * [Hadley Wickham’s R Style Guide](http://adv-r.had.co.nz/Style.html)
 
-### Ruby
+## Ruby
 * [bbatsov’s Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Airbnb](https://github.com/airbnb/ruby)
 * [Scholar’s lab](http://praxis.scholarslab.org/scratchpad/ruby-style-guide/)
 * [Relish](https://www.relishapp.com/womply/ruby-style-guide/docs/syntax)
 * [Cookpad](https://github.com/cookpad/styleguide/blob/master/ruby.en.md)
 
-### Rust
+## Rust
 * [aturon’s Rust Style Guide](https://aturon.github.io/)
 * [rust-lang Official Style Guide](https://github.com/rust-lang/rust/tree/master/src/doc/style)
 
-### Shell
+## Shell
 * [Google Style Guide](https://google.github.io/styleguide/shell.xml)
 * [Chromium](http://www.chromium.org/chromium-os/shell-style-guidelines)
 
-### Swift
+## Swift
 * [Github](https://github.com/github/swift-style-guide)
 * [raywenderlich.com](https://github.com/raywenderlich/swift-style-guide)
 * [swift.org API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 * [Sport Ngin](http://sportngin.github.io/styleguide/swift.html)
 * [Slideshare (Linked)](https://github.com/SlideShareInc/swift-style-guide)
 
-### SQL
+## SQL
 * [sqlstyle.guide](http://www.sqlstyle.guide/)
 
-### Vimscript
+## Vimscript
 * [Google Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
 
 ## License
