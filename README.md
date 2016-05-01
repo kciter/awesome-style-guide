@@ -8,11 +8,13 @@ A list of awesome **style guide**. The list is divided into categories such as P
 ## Contents
 - [Android](#android)
 - [AngularJS](#angularjs)
+- [Backbone.js](#backbone.js)
 - [C](#c)
 - [Cpp](#cpp)
 - [CSharp](#csharp)
 - [CommonLisp](#commonlisp)
 - [CSS](#css)
+- [Design Pattern](#design-pattern)
 - [Django](#django)
 - [Flask](#flask)
 - [Git](#git)
@@ -54,6 +56,10 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [johnpapa's angular-styleguide](https://github.com/johnpapa/angular-styleguide)
 * [Google Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
 
+## Backbone.js
+* [Backbone.js Applications (Book)](https://addyosmani.com/backbone-fundamentals/)
+* [Backbone Patterns](http://ricostacruz.com/backbone-patterns/)
+
 ## C
 * [Apache httpd](https://httpd.apache.org/dev/styleguide.html)
 * [GNU](http://www.gnu.org/prep/standards/standards.html)
@@ -84,6 +90,11 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [WordPress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
 * [ThinkUp](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS)
 * [smacss](https://smacss.com/)
+
+## Design Pattern
+* [Game Programming Patterns](http://gameprogrammingpatterns.com/)
+* [SourceMaking Design Patterns](https://sourcemaking.com/design_patterns)
+* [wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 ## Django
 * [Django Coding Style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
