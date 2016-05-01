@@ -12,6 +12,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [C](#c)
 - [Cpp](#cpp)
 - [CSharp](#csharp)
+- [Clojure](#clojure)
 - [CommonLisp](#commonlisp)
 - [CSS](#css)
 - [Design Pattern](#design-pattern)
@@ -76,6 +77,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [raywenderlich.com](https://github.com/raywenderlich/c-sharp-style-guide)
 * [dvdsgl's CSharp Style Guide](https://github.com/dvdsgl/csharp-in-style)
 * [Unity](http://wiki.unity3d.com/index.php/Csharp_Coding_Guidelines)
+
+## Clojure
+* [clojure-style-guide](https://github.com/bbatsov/clojure-style-guide)
 
 ## CommonLisp
 * [Google Style Guide](https://google.github.io/styleguide/lispguide.xml)
