@@ -31,6 +31,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [Ruby on Rails](#rubyonrails)
 - [Rust](#rust)
 - [Sass](#sass)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
 - [SQL](#sql)
@@ -171,6 +172,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Sass
 * [css-trick](https://css-tricks.com/sass-style-guide/)
+
+## Scala
+* [scala-lang](http://docs.scala-lang.org/style/)
 
 ## Shell
 * [Google Style Guide](https://google.github.io/styleguide/shell.xml)
