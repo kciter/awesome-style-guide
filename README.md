@@ -30,6 +30,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [Javascript](#javascript)
 - [jQuery](#jquery)
 - [Kotlin](#kotlin)
+- [Makefile](#makefile)
 - [Objective-C](#objective-c)
 - [Perl](#perl)
 - [PHP](#php)
@@ -167,6 +168,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Kotlin
 * [Kotlin](https://kotlinlang.org/docs/reference/coding-conventions.html)
+
+## Makefile
+* [Makefile](http://clarkgrubb.com/makefile-style-guide)
 
 ## Objective-C
 * [NYTimes(The New York Times)](https://github.com/NYTimes/objective-c-style-guide)
