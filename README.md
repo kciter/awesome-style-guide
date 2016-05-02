@@ -11,6 +11,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [AWS](#aws)
 - [Backbone.js](#backbone)
 - [C](#c)
+- [CoffeeScript](#coffeescript)
 - [Cpp](#cpp)
 - [CSharp](#csharp)
 - [Clojure](#clojure)
@@ -71,6 +72,10 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Apache httpd](https://httpd.apache.org/dev/styleguide.html)
 * [GNU](http://www.gnu.org/prep/standards/standards.html)
 * [NASA](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
+* 
+
+## CoffeeScript
+* [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide)
 
 ## Cpp
 * [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
