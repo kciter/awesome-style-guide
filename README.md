@@ -77,7 +77,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
 * [cocos2d-x](http://www.cocos2d-x.org/wiki/Cocos2d-x_Coding_Style_C++)
 * [llvm style](http://llvm.org/docs/CodingStandards.html)
-* [linux kernal style](https://www.kernel.org/doc/Documentation/CodingStyle)
+* [linux kernel style](https://www.kernel.org/doc/Documentation/CodingStyle)
 
 ## CSharp
 * [Microsoft](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
