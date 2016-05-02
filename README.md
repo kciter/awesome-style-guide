@@ -19,6 +19,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [CSS](#css)
 - [Design Pattern](#design-pattern)
 - [Django](#django)
+- [Erlang](#erlang)
 - [Flask](#flask)
 - [Git](#git)
 - [Go](#go)
@@ -114,6 +115,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Django
 * [Django Coding Style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+
+## Erlang
+* [Erlang Guidelines](https://github.com/inaka/erlang_guidelines)
 
 ## Flask
 * [Pocoo Styleguide](http://flask.pocoo.org/docs/0.10/styleguide/)
