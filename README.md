@@ -160,7 +160,8 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Google Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 ## Javascript
-* [Airbnb](https://github.com/airbnb/javascript)
+* [Airbnb ES6](https://github.com/airbnb/javascript)
+* [Airbnb ES5](https://github.com/airbnb/javascript/tree/master/es5)
 * [Google Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [W3Schools](http://www.w3schools.com/js/js_conventions.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/js/)
