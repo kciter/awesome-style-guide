@@ -23,6 +23,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [Flask](#flask)
 - [Git](#git)
 - [Go](#go)
+- [Groovy](#groovy)
 - [Haskell](#haskell)
 - [HTTP API Design](#http-api-design)
 - [HTML](#html)
@@ -132,6 +133,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [EffectiveGo](https://golang.org/doc/effective_go.html)
 * [How to Write GO Code](https://golang.org/doc/code.html)
 * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+
+## Groovy
+* [Groovy Style Guide](http://groovy-lang.org/style-guide.html)
 
 ## Haskell
 * [Haskell-style-guide](https://github.com/tibbe/haskell-style-guide)
