@@ -62,6 +62,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 ## AngularJS
 * [johnpapa's angular-styleguide](https://github.com/johnpapa/angular-styleguide)
 * [Google Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
+* [Todd Motto's angular-styleguide](https://github.com/toddmotto/angular-styleguide)
 
 ## AWS
 * [AWS Cloud Design Pattern](http://en.clouddesignpattern.org/index.php/Main_Page)
