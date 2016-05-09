@@ -206,6 +206,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 ## Python
 * [PEP8](https://www.python.org/dev/peps/pep-0008/)
 * [Google Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 
 ## R
 * [Google Style Guide](https://google.github.io/styleguide/Rguide.xml)
