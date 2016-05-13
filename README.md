@@ -173,7 +173,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Sport Ngin](http://sportngin.github.io/styleguide/javascript.html)
 * [idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
 * [Standard](https://github.com/feross/standard)
-* [note-style-guide](https://github.com/felixge/node-style-guide)
+* [node-style-guide](https://github.com/felixge/node-style-guide)
 * [npm’s "funny" coding style](https://docs.npmjs.com/misc/coding-style)
 * [WordPress](https://make.wordpress.org/core/handbook/coding-standards/javascript/)
 
