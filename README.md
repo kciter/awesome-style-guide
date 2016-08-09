@@ -156,7 +156,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [iOS VIPER](https://www.objc.io/issues/13-architecture/viper/)
 
 ## JSON
-* [Google Style Guide](https://google-styleguide.googlecode.com/svn/trunk/jsoncstyleguide.xml)
+* [Google Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
 ## Java
 * [Apache ACE](https://ace.apache.org/docs/coding-standards.html)
