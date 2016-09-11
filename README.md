@@ -51,6 +51,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [Swift](#swift)
 - [SQL](#sql)
 - [Unreal Engine](#unreal-engine)
+- [Versioning](#versioning)
 - [Vimscript](#vimscript)
 - [XML](#xml)
 
@@ -260,6 +261,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Unreal Engine
 * [Unreal Engine](https://docs.unrealengine.com/latest/INT/Programming/Development/CodingStandard/)
+
+## Versioning
+* [http://semver.org/](http://semver.org/)
 
 ## Vimscript
 * [Google Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
