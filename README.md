@@ -130,6 +130,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [agis-](https://github.com/agis-/git-style-guide)
 * [git flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.html)
 * [A successful git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+* [Git Commit Message](https://github.com/slashsBin/styleguide-git-commit-message)
 
 ## Go
 * [EffectiveGo](https://golang.org/doc/effective_go.html)
