@@ -168,7 +168,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Javascript
 * [Airbnb ES6](https://github.com/airbnb/javascript)
-* [Airbnb ES5](https://github.com/airbnb/javascript/tree/master/es5)
+* [Airbnb ES5](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
 * [Google Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 * [W3Schools](http://www.w3schools.com/js/js_conventions.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/js/)
@@ -177,7 +177,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Standard](https://github.com/feross/standard)
 * [node-style-guide](https://github.com/felixge/node-style-guide)
 * [npm’s "funny" coding style](https://docs.npmjs.com/misc/coding-style)
-* [WordPress](https://make.wordpress.org/core/handbook/coding-standards/javascript/)
+* [WordPress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/)
 
 ## jQuery
 * [pragmatic-jquery](https://github.com/yuanyan/pragmatic-jquery)
@@ -193,7 +193,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [raywenderlich.com](https://github.com/raywenderlich/objective-c-style-guide)
 * [Github](https://github.com/github/objective-c-style-guide)
 * [Google Style Guide](https://google.github.io/styleguide/objcguide.xml)
-* [Apple](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)
+* [Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)
 
 ## Perl
 * [perldoc](http://perldoc.perl.org/perlstyle.html)
@@ -203,7 +203,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [php-fig](http://www.php-fig.org/psr/psr-2/)
 * [CodeIgniter](https://www.codeigniter.com/user_guide/general/styleguide.html)
 * [WordPress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/)
-* [ZendFramework](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
+* [ZendFramework](https://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
 * [PHP The Right Way](http://www.phptherightway.com/)
 
 ## Python
@@ -235,7 +235,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Rust
 * [aturon’s Rust Style Guide](https://aturon.github.io/)
-* [rust-lang Official Style Guide](https://github.com/rust-lang/rust/tree/master/src/doc/style)
+* [rust-lang Official Style Guide](https://github.com/rust-lang-nursery/fmt-rfcs/blob/master/guide/guide.md)
 
 ## Sass
 * [css-trick](https://css-tricks.com/sass-style-guide/)
@@ -274,6 +274,6 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)
 
 ## License
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<a rel="license" href="https://creativecommons.org/publicdomain/mark/1.0/">
 <img src="https://licensebuttons.net/p/mark/1.0/88x31.png" alt="Public Domain Mark" />
 </a>
