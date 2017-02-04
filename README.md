@@ -77,6 +77,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Apache httpd](https://httpd.apache.org/dev/styleguide.html)
 * [GNU](http://www.gnu.org/prep/standards/standards.html)
 * [NASA](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
+* [Linux](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-style.rst)
 
 ## CoffeeScript
 * [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide)
