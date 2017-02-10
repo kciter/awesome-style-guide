@@ -53,7 +53,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [SQL](#sql)
 - [Unreal Engine](#unreal-engine)
 - [Vimscript](#vimscript)
-- [Vue.js](#vue.js)
+- [Vue.js](#vuejs)
 - [XML](#xml)
 - [etc](#etc)
 
