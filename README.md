@@ -53,6 +53,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 - [SQL](#sql)
 - [Unreal Engine](#unreal-engine)
 - [Vimscript](#vimscript)
+- [Vue](#vue)
 - [XML](#xml)
 - [etc](#etc)
 
@@ -266,6 +267,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Vimscript
 * [Google Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
+
+## Vue.js
+* [vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide)
 
 ## XML
 * [Google Style Guide](https://google.github.io/styleguide/xmlstyle.html)
