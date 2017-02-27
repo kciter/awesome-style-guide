@@ -152,7 +152,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## HTML
 * [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
-* [W3Schools](http://www.w3schools.com/html/html5_syntax.asp)
+* [W3Schools](https://www.w3schools.com/html/html5_syntax.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/html/)
 * [mdo’s Code Guide](https://github.com/mdo/code-guide)
 
