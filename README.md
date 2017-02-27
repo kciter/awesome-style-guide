@@ -173,7 +173,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Airbnb ES6](https://github.com/airbnb/javascript)
 * [Airbnb ES5](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
 * [Google Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
-* [W3Schools](http://www.w3schools.com/js/js_conventions.asp)
+* [W3Schools](https://www.w3schools.com/js/js_conventions.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/js/)
 * [Sport Ngin](http://sportngin.github.io/styleguide/javascript.html)
 * [idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
