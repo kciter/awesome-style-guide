@@ -6,6 +6,13 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 **Tip**: You can find simply press <kbd>Command</kbd> + <kbd>F</kbd> or <kbd>Ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
 
+## Support
+If you like this open source, you can sponsor it. :smile:
+```
+Litecoin: LZSFLGDLe1pBxQB7v54kEcobYnu1uAR9U6
+Bitcoin: 1Hrauu2sPczma53gpYU4Y2kap5Hi6K3Ma3
+```
+
 ## Contents
 - [Android](#android)
 - [AngularJS](#angularjs)
