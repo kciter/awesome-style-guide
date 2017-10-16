@@ -169,7 +169,7 @@ Bitcoin: 1Hrauu2sPczma53gpYU4Y2kap5Hi6K3Ma3
 
 ## JSON
 * [Google Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
-* [w3resource](https://www.w3resource.com/slides/json-style-guide.php)
+* [w3resource](https://www.w3resource.com/slides/json-style-guide.php) 
 
 ## Java
 * [Apache ACE](https://ace.apache.org/docs/coding-standards.html)
