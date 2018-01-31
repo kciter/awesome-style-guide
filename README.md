@@ -162,6 +162,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## JSON
 * [Google Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
+* [w3resource](https://www.w3resource.com/slides/json-style-guide.php) 
 
 ## Java
 * [Apache ACE](https://ace.apache.org/docs/coding-standards.html)
