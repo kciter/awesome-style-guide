@@ -280,6 +280,11 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Semantic Versioning](http://semver.org/)
 * [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)
 
+## Donate
+If you like this open source, you can sponsor it. :smile:
+
+[Paypal me](paypal.me/kciter)
+
 ## License
 <a rel="license" href="https://creativecommons.org/publicdomain/mark/1.0/">
 <img src="https://licensebuttons.net/p/mark/1.0/88x31.png" alt="Public Domain Mark" />
