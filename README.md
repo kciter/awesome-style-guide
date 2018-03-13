@@ -113,6 +113,8 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [WordPress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
 * [ThinkUp](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS)
 * [smacss](https://smacss.com/)
+* [Yelp Styleguide](https://www.yelp.com/styleguide)
+* [Ubuntu](https://design.ubuntu.com/web/)
 
 ## Design Pattern
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
