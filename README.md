@@ -235,6 +235,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Cookpad](https://github.com/cookpad/styleguide/blob/master/ruby.en.md)
 * [Relaxed.Ruby.Style](http://relaxed.ruby.style/)
 * [Christian Neukirchen's Ruby Style Guide](https://github.com/chneukirchen/styleguide/blob/master/RUBY-STYLE)
+* [Google](http://google.github.io/swift/swift/)
 
 ## Ruby on Rails
 * [bbatsov's rails-style-guide](https://github.com/bbatsov/rails-style-guide)
