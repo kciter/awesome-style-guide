@@ -235,7 +235,6 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Cookpad](https://github.com/cookpad/styleguide/blob/master/ruby.en.md)
 * [Relaxed.Ruby.Style](http://relaxed.ruby.style/)
 * [Christian Neukirchen's Ruby Style Guide](https://github.com/chneukirchen/styleguide/blob/master/RUBY-STYLE)
-* [Google](http://google.github.io/swift/swift/)
 
 ## Ruby on Rails
 * [bbatsov's rails-style-guide](https://github.com/bbatsov/rails-style-guide)
@@ -263,6 +262,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [swift.org API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 * [Sport Ngin](http://sportngin.github.io/styleguide/swift.html)
 * [Slideshare (Linked)](https://github.com/SlideShareInc/swift-style-guide)
+* [Google](http://google.github.io/swift/)
 
 ## SQL
 * [sqlstyle.guide](http://www.sqlstyle.guide/)
