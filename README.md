@@ -198,7 +198,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [NYTimes(The New York Times)](https://github.com/NYTimes/objective-c-style-guide)
 * [raywenderlich.com](https://github.com/raywenderlich/objective-c-style-guide)
 * [Github](https://github.com/github/objective-c-style-guide)
-* [Google Style Guide](https://google.github.io/styleguide/objcguide.xml)
+* [Google Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
 * [Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)
 
 ## Perl
