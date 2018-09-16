@@ -230,7 +230,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 ## Ruby
 * [bbatsov’s Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Airbnb](https://github.com/airbnb/ruby)
-* [Scholar’s lab](http://praxis.scholarslab.org/scratchpad/ruby-style-guide/)
+* [Scholar’s lab](http://praxis.scholarslab.org/resources/ruby-style-guide/)
 * [Relish](https://www.relishapp.com/womply/ruby-style-guide/docs/syntax)
 * [Cookpad](https://github.com/cookpad/styleguide/blob/master/ruby.en.md)
 * [Relaxed.Ruby.Style](http://relaxed.ruby.style/)
