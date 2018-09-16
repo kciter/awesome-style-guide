@@ -105,7 +105,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Riastradh’s Lisp Style Guide](http://mumble.net/~campbell/scheme/style.txt)
 
 ## CSS
-* [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+* [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [mod’s Code Guide](https://github.com/mdo/code-guide)
 * [Airbnb](https://github.com/airbnb/css)
 * [Dropbox](https://github.com/dropbox/css-style-guide)
@@ -153,7 +153,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ## HTML
-* [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+* [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [W3Schools](https://www.w3schools.com/html/html5_syntax.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/html/)
 * [mdo’s Code Guide](https://github.com/mdo/code-guide)
