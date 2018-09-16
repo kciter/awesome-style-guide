@@ -87,9 +87,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Geosoft Style Guide](http://geosoft.no/development/cppstyle.html)
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
-* [cocos2d-x](http://www.cocos2d-x.org/wiki/Cocos2d-x_Coding_Style_C++)
+* [cocos2d-x](https://github.com/cocos2d/cocos2d-x/blob/v3/docs/CODING_STYLE.md)
 * [llvm style](http://llvm.org/docs/CodingStandards.html)
-* [linux kernel style](https://www.kernel.org/doc/Documentation/CodingStyle)
+* [linux kernel style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 
 ## CSharp
 * [Microsoft](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
@@ -105,7 +105,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Riastradh’s Lisp Style Guide](http://mumble.net/~campbell/scheme/style.txt)
 
 ## CSS
-* [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+* [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [mod’s Code Guide](https://github.com/mdo/code-guide)
 * [Airbnb](https://github.com/airbnb/css)
 * [Dropbox](https://github.com/dropbox/css-style-guide)
@@ -128,7 +128,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Erlang Guidelines](https://github.com/inaka/erlang_guidelines)
 
 ## Flask
-* [Pocoo Styleguide](http://flask.pocoo.org/docs/0.10/styleguide/)
+* [Pocoo Styleguide](http://flask.pocoo.org/docs/1.0/styleguide/)
 * [Large app how to](https://github.com/pallets/flask/wiki/Large-app-how-to)
 
 ## Git
@@ -153,7 +153,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ## HTML
-* [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+* [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [W3Schools](https://www.w3schools.com/html/html5_syntax.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/html/)
 * [mdo’s Code Guide](https://github.com/mdo/code-guide)
@@ -175,7 +175,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 ## Javascript
 * [Airbnb ES6](https://github.com/airbnb/javascript)
 * [Airbnb ES5](https://github.com/airbnb/javascript/tree/es5-deprecated/es5)
-* [Google Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
+* [Google Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [W3Schools](https://www.w3schools.com/js/js_conventions.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/js/)
 * [Sport Ngin](http://sportngin.github.io/styleguide/javascript.html)
@@ -198,7 +198,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [NYTimes(The New York Times)](https://github.com/NYTimes/objective-c-style-guide)
 * [raywenderlich.com](https://github.com/raywenderlich/objective-c-style-guide)
 * [Github](https://github.com/github/objective-c-style-guide)
-* [Google Style Guide](https://google.github.io/styleguide/objcguide.xml)
+* [Google Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
 * [Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)
 
 ## Perl
@@ -230,7 +230,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 ## Ruby
 * [bbatsov’s Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Airbnb](https://github.com/airbnb/ruby)
-* [Scholar’s lab](http://praxis.scholarslab.org/scratchpad/ruby-style-guide/)
+* [Scholar’s lab](http://praxis.scholarslab.org/resources/ruby-style-guide/)
 * [Relish](https://www.relishapp.com/womply/ruby-style-guide/docs/syntax)
 * [Cookpad](https://github.com/cookpad/styleguide/blob/master/ruby.en.md)
 * [Relaxed.Ruby.Style](http://relaxed.ruby.style/)
@@ -281,7 +281,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## etc
 * [Semantic Versioning](http://semver.org/)
-* [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)
+* [Keep a CHANGELOG](https://keepachangelog.com/en/1.0.0/)
 
 ## Donate
 If you like this open source, you can sponsor it. :smile:
