@@ -128,7 +128,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Erlang Guidelines](https://github.com/inaka/erlang_guidelines)
 
 ## Flask
-* [Pocoo Styleguide](http://flask.pocoo.org/docs/0.10/styleguide/)
+* [Pocoo Styleguide](http://flask.pocoo.org/docs/1.0/styleguide/)
 * [Large app how to](https://github.com/pallets/flask/wiki/Large-app-how-to)
 
 ## Git
