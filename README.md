@@ -281,7 +281,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## etc
 * [Semantic Versioning](http://semver.org/)
-* [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)
+* [Keep a CHANGELOG](https://keepachangelog.com/en/1.0.0/)
 
 ## Donate
 If you like this open source, you can sponsor it. :smile:
