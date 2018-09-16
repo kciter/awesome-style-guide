@@ -89,7 +89,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
 * [cocos2d-x](https://github.com/cocos2d/cocos2d-x/blob/v3/docs/CODING_STYLE.md)
 * [llvm style](http://llvm.org/docs/CodingStandards.html)
-* [linux kernel style](https://www.kernel.org/doc/Documentation/CodingStyle)
+* [linux kernel style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 
 ## CSharp
 * [Microsoft](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
