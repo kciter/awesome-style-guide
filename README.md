@@ -87,7 +87,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Geosoft Style Guide](http://geosoft.no/development/cppstyle.html)
 * [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
-* [cocos2d-x](http://www.cocos2d-x.org/wiki/Cocos2d-x_Coding_Style_C++)
+* [cocos2d-x](https://github.com/cocos2d/cocos2d-x/blob/v3/docs/CODING_STYLE.md)
 * [llvm style](http://llvm.org/docs/CodingStandards.html)
 * [linux kernel style](https://www.kernel.org/doc/Documentation/CodingStyle)
 
