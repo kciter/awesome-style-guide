@@ -77,7 +77,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 ## C
 * [Apache httpd](https://httpd.apache.org/dev/styleguide.html)
 * [GNU](http://www.gnu.org/prep/standards/standards.html)
-* [NASA](http://homepages.inf.ed.ac.uk/dts/pm/Papers/nasa-c-style.pdf)
+* [NASA](https://ntrs.nasa.gov/search.jsp?R=19950022400)
 * [Linux](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-style.rst)
 
 ## CoffeeScript
@@ -90,6 +90,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [cocos2d-x](https://github.com/cocos2d/cocos2d-x/blob/v3/docs/CODING_STYLE.md)
 * [llvm style](http://llvm.org/docs/CodingStandards.html)
 * [linux kernel style](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
+* [NASA](https://ntrs.nasa.gov/search.jsp?R=20080039927)
 
 ## CSharp
 * [Microsoft](https://msdn.microsoft.com/en-us/library/ms229042.aspx)
