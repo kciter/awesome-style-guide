@@ -172,6 +172,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 * [Oracle](http://www.oracle.com/technetwork/java/codeconvtoc-136057.html)
 * [Geosoft](http://geosoft.no/development/javastyle.html)
 * [Google Style Guide](https://google.github.io/styleguide/javaguide.html)
+* [Interviewbit](https://www.interviewbit.com/java-cheat-sheet/)
 
 ## Javascript
 * [Airbnb ES6](https://github.com/airbnb/javascript)
